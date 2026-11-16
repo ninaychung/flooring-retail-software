@@ -1,6 +1,6 @@
 # Flooring Retail Software: Market Research, Product Strategy & GTM
 
-Vite + React installer-management prototype, plus flooring field research hosted in the same app.
+Market research, product strategy, and go-to-market plan for software serving independent flooring retailers, based on six industry interviews, with a clickable Vite + React installer-management prototype.
 
 ## App and Research
 
